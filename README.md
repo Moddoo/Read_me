@@ -33,7 +33,7 @@ MIT License
 ## Tests
 
 ![badge](https://img.shields.io/badge/License-MIT-yellowgreen)
-![badge](https://img.shields.io/badge/Dependencies-upto_date-orange)
+![badge](https://img.shields.io/badge/Dependencies-upto%20date-orange)
 ![badge](https://img.shields.io/badge/Version-v1.0.0-blue)
 
 ![gif](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif )

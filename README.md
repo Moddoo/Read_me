@@ -32,7 +32,7 @@ MIT License
                 
 ## Tests
 
-![video](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.mp4)
+![video](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif)
 
                 
 ## Question

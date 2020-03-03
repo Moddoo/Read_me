@@ -91,6 +91,7 @@ ${ans.license}
 ## Tests
 
 ${ans.tests}
+![gif](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif)
                 
 ## Question
 

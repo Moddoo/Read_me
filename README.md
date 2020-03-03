@@ -32,6 +32,9 @@ MIT License
                 
 ## Tests
 
+![badge](https://img.shields.io/badge/Moddoo-ahmed-yellowgreen)
+![badge](https://img.shields.io/badge/JS-100%-orange)
+![badge](https://img.shields.io/badge/Coverage-80%-blue)
 ![gif](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif )
                 
 ## Question

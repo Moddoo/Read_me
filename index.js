@@ -90,6 +90,9 @@ ${ans.license}
                 
 ## Tests
 
+![badge](https://img.shields.io/badge/moddoo-ahmed-yellowgreen)
+![badge](https://img.shields.io/badge/js-100%-orange)
+![badge](https://img.shields.io/badge/coverage-80%-blue)
 ![gif](${ans.tests})
                 
 ## Question

@@ -94,7 +94,7 @@ ${ans.tests}
                 
 ## Question
 
-![github photo]('${response.data.avatar_url}')                  
+![github photo](${response.data.avatar_url})                  
 ${ans.question}
               `
          }

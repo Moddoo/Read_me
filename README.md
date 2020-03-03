@@ -36,6 +36,6 @@ MIT License
                 
 ## Question
 
-![github photo]('https://avatars2.githubusercontent.com/u/58055188?v=4')                  
+![github photo](https://avatars2.githubusercontent.com/u/58055188?v=4)                  
 zoddoo@yahoo.com
               

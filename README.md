@@ -32,10 +32,11 @@ MIT License
                 
 ## Tests
 
+![video](vid.mp4)
 
                 
 ## Question
 
-![github photo](https://avatars2.githubusercontent.com/u/58055188?v=4)                  
+![github photo](https://avatars2.githubusercontent.com/u/58055188?v=1)                  
 zoddoo@yahoo.com
               

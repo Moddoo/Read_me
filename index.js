@@ -1,7 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
-const util  = require('util')
 const axios = require('axios');
+// const util  = require('util')
 
 inquirer
      .prompt([
@@ -54,8 +54,8 @@ inquirer
      ])
      .then(ans => {
          const queryUrl = `https://api.github.com/users/${ans.username}`;
+
          function generateReadMe(response) {
-            console.log(ans)
             return `
 # ReadMe Generator
 
@@ -101,7 +101,6 @@ ${ans.question}
          
          axios.get(queryUrl)
               .then(res => {
-               // console.log(generateReadMe())
                  fs.writeFile('README.md', generateReadMe(res), (err) => console.log(err))
 
                 })

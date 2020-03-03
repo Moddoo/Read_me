@@ -60,11 +60,11 @@ inquirer
 # ReadMe Generator
 
 ## Description
----
+
 ${ans.description}
 
 ## Contents
----
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -73,27 +73,27 @@ ${ans.description}
 * [Question](#question)
                  
 ## Installation
----
+
 ${ans.installation}
                 
 ## Usage
----
+
 ${ans.usage}
 
 ## Credits
---- 
+ 
 ${ans.credits} 
 
 ## License
----
+
 ${ans.license} 
                 
 ## Tests
----
+
 ${ans.tests}
                 
 ## Question
----
+
 ![github photo]('${response.data.avatar_url}')                  
 ${ans.question}
               `

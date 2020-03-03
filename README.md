@@ -3,7 +3,7 @@
 
 ## Description
 
-
+Creating Well Sructured ReadMe For Projects In GitHub
 
 ## Contents
 
@@ -16,15 +16,15 @@
                  
 ## Installation
 
-
+TextEditor Like Vscode, Node.js
                 
 ## Usage
 
-
+Go to terminal and type npm i then node index.js then a detailed README will be createad through a series of prompts.
 
 ## Credits
  
- 
+none 
 
 ## License
 
@@ -32,11 +32,10 @@ MIT License
                 
 ## Tests
 
-![video](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif)
-
+![gif](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif )
                 
 ## Question
 
-![github photo](https://avatars2.githubusercontent.com/u/58055188?v=1)                  
+![github photo](https://avatars2.githubusercontent.com/u/58055188?v=4)                  
 zoddoo@yahoo.com
               

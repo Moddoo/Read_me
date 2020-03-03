@@ -43,7 +43,7 @@ inquirer
          },
          {
             type: 'input',
-            message: 'Add badge => ',
+            message: 'Add Gif link => ',
             name: 'tests'
          },
          {
@@ -90,8 +90,7 @@ ${ans.license}
                 
 ## Tests
 
-${ans.tests}
-![gif](https://media.giphy.com/media/UQlfYQugD7rmccwlv9/giphy.gif)
+![gif](${ans.tests})
                 
 ## Question
 
